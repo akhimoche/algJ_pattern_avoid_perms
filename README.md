@@ -14,7 +14,7 @@ This algorithm can apply for vincular and non-vincular patterns of limited lengt
 
 ## Analysis
 
-The code above is able to generate all possible permutations consistent with SJT ordering and can identify specific substrings within a given string. A protocol to generate all possible permuatations avoiding a specific substring of vincular form to be added.
+The code above is able to generate all possible permutations consistent with SJT ordering and can identify specific substrings within a given string. A protocol to generate all possible permuatations avoiding a specific substring of vincular form can be added.
 
 ## Context
 The algorithm pseudocode is laid out in the papers below, along with the respective families of combinatorial objects Algorithm J can generate. 
