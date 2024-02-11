@@ -12,6 +12,10 @@ Without selecting a substring to avoid, the resultant permutation generation ord
 
 This algorithm can apply for vincular and non-vincular patterns of limited length. The maximum size of vincular pattern within input substring is 2, an extension of this code could be written for arbitrary length of substring & vincular pattern to avoid and length of the string to be moved. 
 
+## Analysis
+
+The code above is able to generate all possible permutations consistent with SJT ordering. 
+
 ## Context
 The algorithm pseudocode is laid out in the papers below, along with the respective families of combinatorial objects Algorithm J can generate. 
 
